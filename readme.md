@@ -23,7 +23,7 @@ To run this project locally, you need:
     Open your terminal and run the following command to clone the repository:
 
     ```bash
-    git clone [https://github.com/rohanch398/photo-id-validator.git](https://github.com/rohanch398/photo-id-validator.git)
+    git clone https://github.com/rohanch398/photo-id-validator.git
     cd photo-id-validator
     ```
 
