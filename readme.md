@@ -131,7 +131,6 @@ The Photo ID Validator employs a multi-faceted approach to assess the uploaded i
   * [MediaPipe Face Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker) - Documentation for MediaPipe's face landmarking solution, providing context for its capabilities.
   * [Dlib Documentation](http://dlib.net/) - Comprehensive documentation for the Dlib C++ library, which includes powerful tools for facial landmark detection.
   * [FER - Facial Emotion Recognition Library](https://pypi.org/project/fer/) - Information about the FER library used for emotion analysis.
-  * [FER - Facial Emotion Recognition Library](https://pypi.org/project/fer/) - Information about the FER library used for emotion analysis.
 
 ### License
 
